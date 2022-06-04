@@ -1,0 +1,18 @@
+Responsibilities of QA
+1. Checklists, test-case
+2. Test
+3. Issue bag report
+4. Verification of fix
+
+Hardskills
+- OS advanced user
+(windows, mobile or smth)
+- English
+- PL
+- Mobile Apps
+- GameDev
+
+Softskills
+- attentiveness
+- responsibility
+- perseverance

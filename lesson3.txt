@@ -1,0 +1,7 @@
+1. testing shows bugs
+2. full-testing impossible
+3. early QA
+4. most bugs are in local directory
+5. paradox of pesticide - qa permanently need to find a new way to find new bugs
+6. Testing depends of context. environment
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[,[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D7. Delusion of no-bugs
