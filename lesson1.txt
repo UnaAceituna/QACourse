@@ -1,6 +1,0 @@
-1. Initiation/idea of product
-2. Requirements for product (since this moment tester may start his work, if r. not contradict themselves or someshing)
-3. Design of product (usability, sample)
-4. Development
-5. Test
-6. Production
